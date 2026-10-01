@@ -33,9 +33,9 @@ Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clon
 
 ## Step 2 — Eco: prima prova
 
-Argomenti passati, comando e risultato:
+Argomenti passati, comando e risultato: Andrea 2 3.14, comando ./eco Andrea 2 3.14, risultato: Andrea 2 3.1400000
 
-Che cosa posso concludere:
+Che cosa posso concludere: Atoi e Atof consentono di facilitare l'input delle variabili.
 
 ## Step 2 — Eco: seconda prova
 
