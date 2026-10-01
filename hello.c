@@ -2,11 +2,11 @@
 
 int main(void)
 {
-    /*
-     * TODO: stampa esattamente:
-     * Hello, computational physics!
-     * seguito da una nuova riga.
-     */
-
-    return 0;
+  // * TODO: stampa esattamente:
+  //*//
+  printf("Hello, computational physics!\n");
+	      // * seguito da una nuova riga.
+	      //  */
+  
+  return 0;
 }

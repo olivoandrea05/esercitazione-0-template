@@ -2,26 +2,26 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (Andrea Olivo olivoandrea05, Luca Spagnoli lucaspagnoli05):
 
 URL del repository condiviso:
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: Andrea
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello 
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: ./hello, veniva stampato sul terminale la scritta "Hello, computational physics!"
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile: la sorgente è il file in cui è presente il codice, l'eseguibile è il file che legge la sorgente compilata e la esegue
 
-Output richiesto e comportamento del programma prima della modifica:
+Output richiesto e comportamento del programma prima della modifica: "Hello, computational physics!", non avendo nulla nel codice, non eseguiva nulla
 
-Esito dopo la modifica e spiegazione della correzione:
+Esito dopo la modifica e spiegazione della correzione: stampa sul terminale la scritta "Hello, computational physics!"
 
 ## Step 1 — Git
 
